@@ -33,3 +33,11 @@ Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a s
 | 30 <br> 10 | SOMA = 40 <br><br>|
 | -30 <br> 10 | SOMA = -20 <br><br>|
 | 0 <br> 0 | SOMA = 0 <br><br> |
+
+## 1004 | Simple Product
+Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. A seguir mostre a variável PROD com mensagem correspondente. 
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 3 <br> 9 | PROD = 27 <br><br>|
+| -30 <br> 10 | PROD = -300 <br><br>|
+| 0 <br> 9 | PROD = 0 <br><br> |
