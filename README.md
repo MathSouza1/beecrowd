@@ -129,7 +129,7 @@ Calcule o consumo médio de um automóvel sendo fornecidos a distância total pe
 | 2254 <br> 124.4 | 18.119 km/l |
 | 4554 <br> 464.6 | 9.802 km/l |
 
-## 1014 | Consumption
+## 1015 | Distance between points
 Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula, segundo a fórmula: <br>
 Distancia = ![alt](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1015.png)
 | Exemplo de Entrada | Exemplo de Saída |
@@ -137,3 +137,13 @@ Distancia = ![alt](https://resources.beecrowd.com.br/gallery/images/problems/UOJ
 | 1.0 7.0 <br> 5.0 9.0 | 4.4721<br><br> |
 | -2.5 0.4 <br> 12.1 7.3 | 16.1484<br><br> |
 | 2.5 -0.4 <br> -12.2 7.0| 16.4575<br><br> |
+
+## 1016 | Distance
+Dois carros (X e Y) partem em uma mesma direção. O carro X sai com velocidade constante de 60 Km/h e o carro Y sai com velocidade constante de 90 Km/h. <br>
+Em uma hora (60 minutos) o carro Y consegue se distanciar 30 quilômetros do carro X, ou seja, consegue se afastar um quilômetro a cada 2 minutos. <br>
+Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o carro Y tomar essa distância do outro carro.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 30 | 60 minutos |
+| 110 | 120 minutos |
+| 7 | 14 minutos |
