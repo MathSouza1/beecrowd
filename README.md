@@ -128,3 +128,12 @@ Calcule o consumo médio de um automóvel sendo fornecidos a distância total pe
 | 500 <br> 35.0 | 14.286 km/l |
 | 2254 <br> 124.4 | 18.119 km/l |
 | 4554 <br> 464.6 | 9.802 km/l |
+
+## 1014 | Consumption
+Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula, segundo a fórmula: <br>
+Distancia = ![alt](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1015.png)
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 1.0 7.0 <br> 5.0 9.0 | 4.4721<br><br> |
+| -2.5 0.4 <br> 12.1 7.3 | 16.1484<br><br> |
+| 2.5 -0.4 <br> -12.2 7.0| 16.4575<br><br> |
