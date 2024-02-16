@@ -99,3 +99,15 @@ Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas ling
 | 3 | VOLUME = 113.097 |
 | 15 | VOLUME = 14137.155 |
 | 1523 | VOLUME = 14797486501.627 |
+
+## 1012 | Area
+Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre: <br>
+a) a área do triângulo retângulo que tem A por base e C por altura. <br>
+b) a área do círculo de raio C. (pi = 3.14159) <br>
+c) a área do trapézio que tem A e B por bases e C por altura. <br>
+d) a área do quadrado que tem lado B. <br>
+e) a área do retângulo que tem lados A e B. <br>
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 3.0 4.0 5.2 | TRIANGULO: 7.800 <br> CIRCULO: 84.949 <br> TRAPEZIO: 18.200 <br> QUADRADO: 16.000 <br> RETANGULO: 12.000 |
+| 12.7 10.4 15.2 | TRIANGULO: 96.520 <br> CIRCULO: 725.833 <br> TRAPEZIO: 175.560 <br> QUADRADO: 108.160 <br> RETANGULO: 132.080 |
