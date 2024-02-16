@@ -66,3 +66,10 @@ Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferenç
 | 0 <br> 0 <br> 7 <br> 8 | DIFERENCA = -26 <br><br><br>|
 | 5 <br> 6 <br> -7 <br> 8 | DIFERENCA = -26 <br><br><br>|
 
+## 1008 | Salary
+Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 25 <br> 100 <br> 5.50 | NUMBER = 25 <br> SALARY = U$ 550.00 <br><br>|
+| 1 <br> 200 <br> 20.50 | NUMBER = 1 <br> SALARY = U$ 4100.00 <br><br>|
+| 6 <br> 145 <br> 15.55 | NUMBER = 6 <br> SALARY = U$ 2254.75 <br><br>|
