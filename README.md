@@ -74,10 +74,18 @@ Escreva um programa que leia o número de um funcionário, seu número de horas 
 | 1 <br> 200 <br> 20.50 | NUMBER = 1 <br> SALARY = U$ 4100.00 <br><br>|
 | 6 <br> 145 <br> 15.55 | NUMBER = 6 <br> SALARY = U$ 2254.75 <br><br>|
 
-## 1008 | Salary with Bonus
+## 1009 | Salary with Bonus
 Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
 | Exemplo de Entrada | Exemplo de Saída |
 | --- | --- |
 | JOAO <br> 500.00 <br> 1230.30 | TOTAL = R$ 684.54 <br><br><br>|
 | PEDRO <br> 700.00 <br> 0.00 | TOTAL = R$ 700.00 <br><br><br>|
 | MANGOJATA <br> 1700.00 <br> 1230.50 | TOTAL = R$ 1884.58 <br><br><br> |
+
+## 1010 | Simple Calculation
+Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Após, calcule e mostre o valor a ser pago.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 12 1 5.30 <br>16 2 5.10  | VALOR A PAGAR: R$ 15.50 <br><br>|
+| 13 2 15.30 <br>161 4 5.20  | VALOR A PAGAR: R$ 51.40 <br><br>|
+| 1 1 15.10 <br>2 1 15.10  | VALOR A PAGAR: R$ 30.20 <br><br>|
