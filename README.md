@@ -41,3 +41,11 @@ Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores
 | 3 <br> 9 | PROD = 27 <br><br>|
 | -30 <br> 10 | PROD = -300 <br><br>|
 | 0 <br> 9 | PROD = 0 <br><br> |
+
+## 1005 | First Average
+Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 3.5 e a nota B tem peso 7.5 (A soma dos pesos portanto é 11). Assuma que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal. 
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 5.0 <br> 7.1 | MEDIA = 6.43182 <br><br>|
+| 0.0 <br> 7.1 | MEDIA = 4.84091 <br><br>|
+| 10.0 <br> 10.0 | MEDIA = 10.00000 <br><br> |
