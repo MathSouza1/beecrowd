@@ -118,5 +118,13 @@ Faça um programa que leia três valores e apresente o maior dos três valores l
 Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
 | Exemplo de Entrada | Exemplo de Saída |
 | --- | --- |
-| 7 14 106 | 106 eh o maior|
+| 7 14 106 | 106 eh o maior |
 | 217 14 6 | 217 eh o maior |
+
+## 1014 | Consumption
+Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km) e o total de combustível gasto (em litros).
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 500 <br> 35.0 | 14.286 km/l |
+| 2254 <br> 124.4 | 18.119 km/l |
+| 4554 <br> 464.6 | 9.802 km/l |
