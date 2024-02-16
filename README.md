@@ -58,3 +58,11 @@ Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um alun
 | 5.0 <br> 10.0 <br> 10.0 | MEDIA = 9.0 <br><br><br>|
 | 10.0 <br> 10.0 <br> 5.0 | MEDIA = 7.5 <br><br><br>|
 
+## 1007 | Difference
+Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 5 <br> 6 <br> 7 <br> 8 | DIFERENCA = -26 <br><br><br>|
+| 0 <br> 0 <br> 7 <br> 8 | DIFERENCA = -26 <br><br><br>|
+| 5 <br> 6 <br> -7 <br> 8 | DIFERENCA = -26 <br><br><br>|
+
