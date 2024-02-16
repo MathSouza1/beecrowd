@@ -111,3 +111,12 @@ e) a área do retângulo que tem lados A e B. <br>
 | --- | --- |
 | 3.0 4.0 5.2 | TRIANGULO: 7.800 <br> CIRCULO: 84.949 <br> TRAPEZIO: 18.200 <br> QUADRADO: 16.000 <br> RETANGULO: 12.000 |
 | 12.7 10.4 15.2 | TRIANGULO: 96.520 <br> CIRCULO: 725.833 <br> TRAPEZIO: 175.560 <br> QUADRADO: 108.160 <br> RETANGULO: 132.080 |
+
+## 1013 | the Biggest
+Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula: <br>
+![alt](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1013.png)<br><br>
+Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 7 14 106 | 106 eh o maior|
+| 217 14 6 | 217 eh o maior |
