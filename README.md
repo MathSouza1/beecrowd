@@ -89,3 +89,13 @@ Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o v
 | 12 1 5.30 <br>16 2 5.10  | VALOR A PAGAR: R$ 15.50 <br><br>|
 | 13 2 15.30 <br>161 4 5.20  | VALOR A PAGAR: R$ 51.40 <br><br>|
 | 1 1 15.10 <br>2 1 15.10  | VALOR A PAGAR: R$ 30.20 <br><br>|
+
+## 1011 | Sphere
+Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R). A fórmula para calcular o volume é: (4/3) * pi * R³. Considere (atribua) para pi o valor 3.14159.
+
+Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas linguagens (dentre elas o C++), assumem que o resultado da divisão entre dois inteiros é outro inteiro.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 3 | VOLUME = 113.097 |
+| 15 | VOLUME = 14137.155 |
+| 1523 | VOLUME = 14797486501.627 |
