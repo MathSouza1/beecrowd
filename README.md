@@ -204,3 +204,14 @@ Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação d
 | 0.0 20.0 5.0 | Impossivel calcular |
 | 10.3 203.0 5.0 | R1 = -0.02466 <br> R2 = -19.68408|
 | 10.0 3.0 5.0 | Impossivel calcular |
+
+## 1037 | Interval
+Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”. O símbolo ( representa "maior que". Por exemplo: <br>
+[0,25]  indica valores entre 0 e 25.0000, inclusive eles. <br>
+(25,50] indica valores maiores que 25 Ex: 25.00001 até o valor 50.0000000 
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 25.01 | Intervalo (25, 50] |
+| 25.00 | Intervalo [0,25] |
+| 100.00 | Intervalo (75,100] |
+| -25.02 | Fora de Intervalo|
