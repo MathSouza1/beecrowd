@@ -187,4 +187,11 @@ Leia um valor de ponto flutuante com duas casas decimais. Este valor representa 
 | --- | --- |
 | 576.73 | NOTAS: <br> 5 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 1 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 1 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 1 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 2 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 3 moeda(s) de R$ 0.01  |
 | 4.00 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 0 nota(s) de R$ 50.00 <br> 0 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 2 nota(s) de R$ 2.00 <br> MOEDAS: <br> 0 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 0 moeda(s) de R$ 0.01  |
-| 91.01 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 2 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 1 moeda(s) de R$ 0.01  |
+| 91.01 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 2 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 1 moeda(s) de R$ 0.01 |
+
+## 1035 | First Selection test
+Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B e se C e D, ambos, forem positivos e se a variável A for par escrever a mensagem "Valores aceitos", senão escrever "Valores nao aceitos".
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 5 6 7 8 | Valores nao aceitos |
+| 2 3 2 6 | valores aceitos |
