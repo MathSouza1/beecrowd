@@ -195,3 +195,12 @@ Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D fo
 | --- | --- |
 | 5 6 7 8 | Valores nao aceitos |
 | 2 3 2 6 | valores aceitos |
+
+## 1036 | Bhaskara's Formula
+Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. Se não for possível calcular as raízes, mostre a mensagem correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de numero negativo.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 10.0 20.1 5.1 | R1 = -0.29788 <br> R2 = -1.71212 |
+| 0.0 20.0 5.0 | Impossivel calcular |
+| 10.3 203.0 5.0 | R1 = -0.02466 <br> R2 = -19.68408|
+| 10.0 3.0 5.0 | Impossivel calcular |
