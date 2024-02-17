@@ -187,4 +187,31 @@ Leia um valor de ponto flutuante com duas casas decimais. Este valor representa 
 | --- | --- |
 | 576.73 | NOTAS: <br> 5 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 1 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 1 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 1 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 2 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 3 moeda(s) de R$ 0.01  |
 | 4.00 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 0 nota(s) de R$ 50.00 <br> 0 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 2 nota(s) de R$ 2.00 <br> MOEDAS: <br> 0 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 0 moeda(s) de R$ 0.01  |
-| 91.01 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 2 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 1 moeda(s) de R$ 0.01  |
+| 91.01 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 2 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 1 moeda(s) de R$ 0.01 |
+
+## 1035 | First Selection test
+Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B e se C e D, ambos, forem positivos e se a variável A for par escrever a mensagem "Valores aceitos", senão escrever "Valores nao aceitos".
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 5 6 7 8 | Valores nao aceitos |
+| 2 3 2 6 | valores aceitos |
+
+## 1036 | Bhaskara's Formula
+Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. Se não for possível calcular as raízes, mostre a mensagem correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de numero negativo.
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 10.0 20.1 5.1 | R1 = -0.29788 <br> R2 = -1.71212 |
+| 0.0 20.0 5.0 | Impossivel calcular |
+| 10.3 203.0 5.0 | R1 = -0.02466 <br> R2 = -19.68408|
+| 10.0 3.0 5.0 | Impossivel calcular |
+
+## 1037 | Interval
+Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”. O símbolo ( representa "maior que". Por exemplo: <br>
+[0,25]  indica valores entre 0 e 25.0000, inclusive eles. <br>
+(25,50] indica valores maiores que 25 Ex: 25.00001 até o valor 50.0000000 
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+| 25.01 | Intervalo (25, 50] |
+| 25.00 | Intervalo [0,25] |
+| 100.00 | Intervalo (75,100] |
+| -25.02 | Fora de Intervalo|
