@@ -552,4 +552,22 @@ Neste problema, você deverá ler 3 palavras que definem o tipo de animal possí
 
 </details>
 
+<details>
+<summary> 1050 | DDD</summary>
+
+## 1050 | DDD
+Leia um número inteiro que representa um código de DDD para discagem interurbana. Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
+
+![alt](https://resources.beecrowd.com/gallery/images/problems/UOJ_1050.png)
+<br>
+Se a entrada for qualquer outro DDD que não esteja presente na tabela acima, o programa deverá informar:
+DDD nao cadastrado
+
+| Exemplo de Entrada | Exemplo de Saída |
+|--------------------|------------------|
+| 11                 | Sao Paulo        |
+
+
+</details>
+
 </details>
