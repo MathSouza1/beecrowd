@@ -3,7 +3,7 @@ package com.matheuscardoso.beecrowd;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Multiple {
+public class Multiples {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(System.in);
         int a = Integer.parseInt(input.next());
