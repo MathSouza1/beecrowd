@@ -1,4 +1,10 @@
+<details>
+<summary>Challenges</summary>
+
 # Challenges
+
+<details>
+<summary>1000 | Hello World</summary>
 
 ## 1000 | Hello World
 Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, conforme o exemplo abaixo.
@@ -6,6 +12,11 @@ Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, con
 | Exemplo de Entrada | Exemplo de Saída |
 | --- | --- |
 |  | Hello World! |
+
+</details>
+
+<details>
+<summary>1001 | Extremely Basic</summary>
 
 ## 1001 | Extremely Basic
 Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo:
@@ -15,6 +26,11 @@ Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e
 | 10 <br> 9  | X = 19 <br><br>|
 | -10 <br> 4 | X = -6 <br><br>|
 | 15 <br> -7 | X = 8 <br><br>|
+
+</details>
+
+<details>
+<summary>1002 | Circle Area</summary>
 
 ## 1002 | Circle Area
 A fórmula para calcular a área de uma circunferência é:
@@ -29,6 +45,11 @@ Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando
 | 100.64  | A=31819.3103 |
 | 150.00  | A=70685.7750 |
 
+</details>
+
+<details>
+<summary>1003 | Simple Sum</summary>
+
 ## 1003 | Simple Sum
 Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta variável.
 
@@ -37,6 +58,11 @@ Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a s
 | 30 <br> 10 | SOMA = 40 <br><br>|
 | -30 <br> 10 | SOMA = -20 <br><br>|
 | 0 <br> 0 | SOMA = 0 <br><br> |
+
+</details>
+
+<details>
+<summary>1004 | Simple Product</summary>
 
 ## 1004 | Simple Product
 Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. A seguir mostre a variável PROD com mensagem correspondente.
@@ -47,6 +73,11 @@ Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores
 | -30 <br> 10 | PROD = -300 <br><br>|
 | 0 <br> 9 | PROD = 0 <br><br> |
 
+</details>
+
+<details>
+<summary>1005 | First Average</summary>
+
 ## 1005 | First Average
 Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2 notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 3.5 e a nota B tem peso 7.5 (A soma dos pesos portanto é 11). Assuma que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
 
@@ -55,6 +86,11 @@ Leia 2 valores de ponto flutuante de dupla precisão A e B, que correspondem a 2
 | 5.0 <br> 7.1 | MEDIA = 6.43182 <br><br>|
 | 0.0 <br> 7.1 | MEDIA = 4.84091 <br><br>|
 | 10.0 <br> 10.0 | MEDIA = 10.00000 <br><br> |
+
+</details>
+
+<details>
+<summary>1006 | Second Average</summary>
 
 ## 1006 | Second Average
 Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 2, a nota B tem peso 3 e a nota C tem peso 5. Considere que cada nota pode ir de 0 até 10.0, sempre com uma casa decimal.
@@ -65,6 +101,11 @@ Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um alun
 | 5.0 <br> 10.0 <br> 10.0 | MEDIA = 9.0 <br><br><br>|
 | 10.0 <br> 10.0 <br> 5.0 | MEDIA = 7.5 <br><br><br>|
 
+</details>
+
+<details>
+<summary>1007 | Difference</summary>
+
 ## 1007 | Difference
 Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 
@@ -73,6 +114,11 @@ Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferenç
 | 5 <br> 6 <br> 7 <br> 8 | DIFERENCA = -26 <br><br><br>|
 | 0 <br> 0 <br> 7 <br> 8 | DIFERENCA = -26 <br><br><br>|
 | 5 <br> 6 <br> -7 <br> 8 | DIFERENCA = -26 <br><br><br>|
+
+</details>
+
+<details>
+<summary>1008 | Salary</summary>
 
 ## 1008 | Salary
 Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
@@ -83,6 +129,11 @@ Escreva um programa que leia o número de um funcionário, seu número de horas 
 | 1 <br> 200 <br> 20.50 | NUMBER = 1 <br> SALARY = U$ 4100.00 <br><br>|
 | 6 <br> 145 <br> 15.55 | NUMBER = 6 <br> SALARY = U$ 2254.75 <br><br>|
 
+</details>
+
+<details>
+<summary>1009 | Salary with Bonus</summary>
+
 ## 1009 | Salary with Bonus
 Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
 
@@ -92,6 +143,11 @@ Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total 
 | PEDRO <br> 700.00 <br> 0.00 | TOTAL = R$ 700.00 <br><br><br>|
 | MANGOJATA <br> 1700.00 <br> 1230.50 | TOTAL = R$ 1884.58 <br><br><br> |
 
+</details>
+
+<details>
+<summary>1010 | Simple Calculation</summary>
+
 ## 1010 | Simple Calculation
 Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Após, calcule e mostre o valor a ser pago.
 
@@ -100,6 +156,11 @@ Neste problema, deve-se ler o código de uma peça 1, o número de peças 1, o v
 | 12 1 5.30 <br>16 2 5.10  | VALOR A PAGAR: R$ 15.50 <br><br>|
 | 13 2 15.30 <br>161 4 5.20  | VALOR A PAGAR: R$ 51.40 <br><br>|
 | 1 1 15.10 <br>2 1 15.10  | VALOR A PAGAR: R$ 30.20 <br><br>|
+
+</details>
+
+<details>
+<summary>1011 | Sphere</summary>
 
 ## 1011 | Sphere
 Faça um programa que calcule e mostre o volume de uma esfera sendo fornecido o valor de seu raio (R). A fórmula para calcular o volume é: (4/3) * pi * R³. Considere (atribua) para pi o valor 3.14159.
@@ -111,6 +172,11 @@ Dica: Ao utilizar a fórmula, procure usar (4/3.0) ou (4.0/3), pois algumas ling
 | 3 | VOLUME = 113.097 |
 | 15 | VOLUME = 14137.155 |
 | 1523 | VOLUME = 14797486501.627 |
+
+</details>
+
+<details>
+<summary>1012 | Area</summary>
 
 ## 1012 | Area
 Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre: <br>
@@ -125,6 +191,11 @@ e) a área do retângulo que tem lados A e B. <br>
 | 3.0 4.0 5.2 | TRIANGULO: 7.800 <br> CIRCULO: 84.949 <br> TRAPEZIO: 18.200 <br> QUADRADO: 16.000 <br> RETANGULO: 12.000 |
 | 12.7 10.4 15.2 | TRIANGULO: 96.520 <br> CIRCULO: 725.833 <br> TRAPEZIO: 175.560 <br> QUADRADO: 108.160 <br> RETANGULO: 132.080 |
 
+</details>
+
+<details>
+<summary>1013 | the Biggest</summary>
+
 ## 1013 | the Biggest
 Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula: <br>
 ![alt](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1013.png)<br><br>
@@ -135,6 +206,11 @@ Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segu
 | 7 14 106 | 106 eh o maior |
 | 217 14 6 | 217 eh o maior |
 
+</details>
+
+<details>
+<summary>1014 | Consumption</summary>
+
 ## 1014 | Consumption
 Calcule o consumo médio de um automóvel sendo fornecidos a distância total percorrida (em Km) e o total de combustível gasto (em litros).
 
@@ -143,6 +219,11 @@ Calcule o consumo médio de um automóvel sendo fornecidos a distância total pe
 | 500 <br> 35.0 | 14.286 km/l |
 | 2254 <br> 124.4 | 18.119 km/l |
 | 4554 <br> 464.6 | 9.802 km/l |
+
+</details>
+
+<details>
+<summary>1015 | Distance between points</summary>
 
 ## 1015 | Distance between points
 Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula, segundo a fórmula: <br>
@@ -153,6 +234,11 @@ Distancia = ![alt](https://resources.beecrowd.com.br/gallery/images/problems/UOJ
 | 1.0 7.0 <br> 5.0 9.0 | 4.4721<br><br> |
 | -2.5 0.4 <br> 12.1 7.3 | 16.1484<br><br> |
 | 2.5 -0.4 <br> -12.2 7.0| 16.4575<br><br> |
+
+</details>
+
+<details>
+<summary>1016 | Distance</summary>
 
 ## 1016 | Distance
 Dois carros (X e Y) partem em uma mesma direção. O carro X sai com velocidade constante de 60 Km/h e o carro Y sai com velocidade constante de 90 Km/h. <br>
@@ -165,6 +251,11 @@ Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o carro 
 | 110 | 120 minutos |
 | 7 | 14 minutos |
 
+</details>
+
+<details>
+<summary>1017 | Fuel Expense</summary>
+
 ## 1017 | Fuel Expense
 Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos em uma viagem, ao utilizar um automóvel que faz 12 KM/L. Para isso, ele gostaria que você o auxiliasse através de um simples programa. Para efetuar o cálculo, deve-se fornecer o tempo gasto na viagem (em horas) e a velocidade média durante a mesma (em km/h). Assim, pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. Mostre o valor com 3 casas decimais após o ponto.
 
@@ -173,6 +264,11 @@ Joaozinho quer calcular e mostrar a quantidade de litros de combustível gastos 
 | 10 <br> 85 | 70.833 |
 | 2 <br> 92 | 15.333 |
 | 22 <br> 67 | 122.833 |
+
+</details>
+
+<details>
+<summary>1018 | Banknotes</summary>
 
 ## 1018 | Banknotes
 Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (cédulas) no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2 e 1. A seguir mostre o valor lido e a relação de notas necessárias.
@@ -183,6 +279,11 @@ Leia um valor inteiro. A seguir, calcule o menor número de notas possíveis (c�
 | 11257 | 11257 <br> 112 nota(s) de R$ 100,00 <br> 1 nota(s) de R$ 50,00 <br> 0 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 1 nota(s) de R$ 5,00 <br> 1 nota(s) de R$ 2,00 <br> 0 nota(s) de R$ 1,00 <br> |
 | 503 | 503 <br> 5 nota(s) de R$ 100,00 <br> 0 nota(s) de R$ 50,00 <br> 0 nota(s) de R$ 20,00 <br> 0 nota(s) de R$ 10,00 <br> 0 nota(s) de R$ 5,00 <br> 1 nota(s) de R$ 2,00 <br> 1 nota(s) de R$ 1,00 <br> |
 
+</details>
+
+<details>
+<summary>1019 | Time Conversion</summary>
+
 ## 1019 | Time Conversion
 Leia um valor inteiro, que é o tempo de duração em segundos de um determinado evento em uma fábrica, e informe-o expresso no formato horas:minutos:segundos.
 
@@ -191,6 +292,11 @@ Leia um valor inteiro, que é o tempo de duração em segundos de um determinado
 | 556 | 0:9:16 |
 | 1 | 0:0:1 |
 | 140153 | 38:55:53 |
+
+</details>
+
+<details>
+<summary>1020 | Age in days</summary>
 
 ## 1020 | Age in days
 Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias <br>
@@ -202,6 +308,11 @@ Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo m
 | 800 | 2 ano(s) <br> 2 mes(es) <br> 10 dia(s) <br> |
 | 30 | 0 ano(s) <br> 1 mes(es) <br> 0 dia(s) <br> |
 
+</details>
+
+<details>
+<summary>1021 | Banknotes and Coins</summary>
+
 ## 1021 | Banknotes and Coins
 Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário. A seguir, calcule o menor número de notas e moedas possíveis no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50, 0.25, 0.10, 0.05 e 0.01. A seguir mostre a relação de notas necessárias.
 
@@ -211,6 +322,11 @@ Leia um valor de ponto flutuante com duas casas decimais. Este valor representa 
 | 4.00 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 0 nota(s) de R$ 50.00 <br> 0 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 2 nota(s) de R$ 2.00 <br> MOEDAS: <br> 0 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 0 moeda(s) de R$ 0.01  |
 | 91.01 | NOTAS: <br> 0 nota(s) de R$ 100.00 <br> 1 nota(s) de R$ 50.00 <br> 2 nota(s) de R$ 20.00 <br> 0 nota(s) de R$ 10.00 <br> 0 nota(s) de R$ 5.00 <br> 0 nota(s) de R$ 2.00 <br> MOEDAS: <br> 1 moeda(s) de R$ 1.00 <br> 0 moeda(s) de R$ 0.50 <br> 0 moeda(s) de R$ 0.25 <br> 0 moeda(s) de R$ 0.10 <br> 0 moeda(s) de R$ 0.05 <br> 1 moeda(s) de R$ 0.01 |
 
+</details>
+
+<details>
+<summary>1035 | First Selection test</summary>
+
 ## 1035 | First Selection test
 Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B e se C e D, ambos, forem positivos e se a variável A for par escrever a mensagem "Valores aceitos", senão escrever "Valores nao aceitos".
 
@@ -218,6 +334,11 @@ Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D fo
 | --- | --- |
 | 5 6 7 8 | Valores nao aceitos |
 | 2 3 2 6 | valores aceitos |
+
+</details>
+
+<details>
+<summary>1036 | Bhaskara's Formula</summary>
 
 ## 1036 | Bhaskara's Formula
 Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. Se não for possível calcular as raízes, mostre a mensagem correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de numero negativo.
@@ -228,6 +349,11 @@ Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação d
 | 0.0 20.0 5.0 | Impossivel calcular |
 | 10.3 203.0 5.0 | R1 = -0.02466 <br> R2 = -19.68408|
 | 10.0 3.0 5.0 | Impossivel calcular |
+
+</details>
+
+<details>
+<summary>1037 | Interval</summary>
 
 ## 1037 | Interval
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”. O símbolo ( representa "maior que". Por exemplo: <br>
@@ -241,17 +367,26 @@ Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem
 | 100.00 | Intervalo (75,100] |
 | -25.02 | Fora de Intervalo|
 
+</details>
+
+<details>
+<summary>1038 | Snack</summary>
+
 ## 1038 | Snack
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item.<br>A seguir, calcule e mostre o valor da conta a pagar.
 
 ![alt](https://resources.beecrowd.com/gallery/images/problems/UOJ_1038_pt.png)
-
 
 | Exemplo de Entrada | Exemplo de Saída |
 | --- | --- |
 | 3 2 | Total: R$ 10.00 |
 | 4 3 | Total: R$ 6.00 |
 | 2 3 | Total: R$ 13.50 |
+
+</details>
+
+<details>
+<summary>1040 | Third Average</summary>
 
 ## 1040 | Third Average
 Leia quatro números (N1, N2, N3, N4), cada um deles com uma casa decimal, correspondente às quatro notas de um aluno. Calcule a média com pesos 2, 3, 4 e 1, respectivamente, para cada uma destas notas e mostre esta média acompanhada pela mensagem "Media: ". Se esta média for maior ou igual a 7.0, imprima a mensagem "Aluno aprovado.". Se a média calculada for inferior a 5.0, imprima a mensagem "Aluno reprovado.". Se a média calculada for um valor entre 5.0 e 6.9, inclusive estas, o programa deve imprimir a mensagem "Aluno em exame.".<br> <br>
@@ -263,6 +398,11 @@ No caso do aluno estar em exame, leia um valor correspondente à nota do exame o
 | 2.0 4.0 7.5 8.0 <br> 6.4 | Media: 5.0 <br> Aluno em exame. <br> Nota do exame: 6.4 <br> Aluno aprovado. <br> Media final: 5.9 |
 | 2.0 6.5 4.0 9.0          | Media: 4.8 <br> Aluno aprovado.                                                                    |
 | 9.0 4.0 8.5 9.0          | Media: 7.3 <br> Aluno aprovado.                                                                    |
+
+</details>
+
+<details>
+<summary>1041 | Coordinates of a Point</summary>
 
 ## 1041 | Coordinates of a Point
 Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0). <br>
@@ -277,6 +417,11 @@ Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conf
 | 0.1 0.1            | Q1               |
 | 0.0 0.0            | Origem           |
 
+</details>
+
+<details>
+<summary>1042 | Simple Sort</summary>
+
 ## 1042 | Simple Sort
 Leia 3 valores inteiros e ordene-os em ordem crescente. No final, mostre os valores em ordem crescente, uma linha em branco e em seguida, os valores na sequência como foram lidos. <br>
 
@@ -284,6 +429,11 @@ Leia 3 valores inteiros e ordene-os em ordem crescente. No final, mostre os valo
 |--------------------|------------------------------------------------|
 | 7 21 -14           | -14 <br> 7 <br> 21 <br><br> 7 <br> 21 <br> -14 |
 | -14 21 7           | -14 <br> 7 <br> 21 <br><br> -14 <br> 21 <br> 7 |
+
+</details>
+
+<details>
+<summary>1043 | Triangle</summary>
 
 ## 1043 | Triangle
 Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo. Em caso positivo, calcule o perímetro do triângulo e apresente a mensagem: <br> <br>
@@ -296,13 +446,23 @@ Area = XX.X<br>
 | 6.0 4.0 2.0        | Area = 10.0      |
 | 6.0 4.0 2.1        | Perimetro = 12.1 |
 
-## 1044 | Multiple
+</details>
+
+<details>
+<summary>1044 | Multiples</summary>
+
+## 1044 | Multiples
 Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si. <br>
 
 | Exemplo de Entrada | Exemplo de Saída  |
 |--------------------|-------------------|
 | 6 24               | Sao Multiplos     |
 | 6 25               | Nao sao Multiplos |
+
+</details>
+
+<details>
+<summary>1045 | Types of Triangles</summary>
 
 ## 1045 | Types of Triangles
 Leia 3 valores de ponto flutuante A, B e C e ordene-os em ordem decrescente, de modo que o lado A representa o maior dos 3 lados. A seguir, determine o tipo de triângulo que estes três lados formam, com base nos seguintes casos, sempre escrevendo uma mensagem adequada: <br>
@@ -320,3 +480,6 @@ Leia 3 valores de ponto flutuante A, B e C e ordene-os em ordem decrescente, de 
 | 6.0 6.0 6.0        | TRIANGULO ACUTANGULO <br> TRIANGULO EQUILATERO |
 | 5.0 7.0 2.0        | NAO FORMA TRIANGULO                            |
 | 6.0 8.0 10.0       | TRIANGULO RETANGULO                            |
+
+</details>
+</details>
