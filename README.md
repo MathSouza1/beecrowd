@@ -535,4 +535,21 @@ A empresa ABC resolveu conceder um aumento de salários a seus funcionários de 
 
 </details>
 
+<details>
+<summary> 1049 | Animal</summary>
+
+## 1049 | Animal
+Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita.  Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
+
+![alt](https://resources.beecrowd.com/gallery/images/problems/UOJ_1049_b.png)
+<br>
+
+| Exemplo de Entrada                      | Exemplo de Saída |
+|-----------------------------------------|------------------|
+| vertebrado <br> mamifero <br> onivoro   | homem            |
+| vertebrado <br> ave <br> carnivoro      | aguia            |
+| invertebrado <br> anelideo <br> onivoro | minhoca          |
+
+</details>
+
 </details>
