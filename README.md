@@ -587,5 +587,16 @@ Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobr
 
 </details>
 
+<details>
+<summary> 1052 | Month</summary>
+
+## 1052 | Month
+Leia um valor inteiro entre 1 e 12, inclusive. Correspondente a este valor, deve ser apresentado como resposta o mês do ano por extenso, em inglês, com a primeira letra maiúscula. <br>
+
+| Exemplo de Entrada | Exemplo de Saída |
+|--------------------|------------------|
+| 4                  | April            |
+
+</details>
 
 </details>
