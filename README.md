@@ -599,4 +599,16 @@ Leia um valor inteiro entre 1 e 12, inclusive. Correspondente a este valor, deve
 
 </details>
 
+<details>
+<summary> 1059 | Pair Numbers</summary>
+
+## 1059 | Pair Numbers
+Faça um programa que mostre os números pares entre 1 e 100, inclusive. <br>
+
+| Exemplo de Entrada | Exemplo de Saída                  |
+|--------------------|-----------------------------------|
+|                    | 2 <br> 4 <br> 6 <br> ... <br> 100 |
+
+</details>
+
 </details>
