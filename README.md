@@ -637,4 +637,16 @@ Sabendo que o evento pode durar de poucos segundos a vários dias, você deverá
 
 </details>
 
+<details>
+<summary> 1064 | Positive Numbers and Average</summary>
+
+## 1064 | Positive Numbers and Average
+Leia 6 valores. Em seguida, mostre quantos destes valores digitados foram positivos. Na próxima linha, deve-se mostrar a média de todos os valores positivos digitados, com um dígito após o ponto decimal. <br>
+
+| Exemplo de Entrada                          | Exemplo de Saída             |
+|---------------------------------------------|------------------------------|
+| 7 <br> -5 <br> 6 <br> -3.4 <br> 4.6 <br> 12 | 4 valores positivos <br> 7.4 |
+
+</details>
+
 </details>
