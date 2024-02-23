@@ -683,6 +683,17 @@ Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 at�
 |--------------------|------------------------|
 | 8                  | 1 <br> 3 <br> 5 <br> 7 |
 
+</details>
+
+<details>
+<summary> 1070 | Six Odd Numbers</summary>
+
+## 1070 | Six Odd Numbers
+Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso. <br>
+
+| Exemplo de Entrada | Exemplo de Saída                          |
+|--------------------|-------------------------------------------|
+| 8                  | 9 <br> 11 <br> 13 <br> 15 <br> 17 <br> 19 |
 
 </details>
 
