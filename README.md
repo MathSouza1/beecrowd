@@ -661,4 +661,18 @@ Faça um programa que leia 5 valores inteiros. Conte quantos destes valores digi
 
 </details>
 
+<details>
+<summary> 1066 | Evens Odds Positives and Negatives</summary>
+
+## 1066 | Evens Odds Positives and Negatives
+Leia 5 valores Inteiros. A seguir mostre quantos valores digitados foram pares, quantos valores digitados foram ímpares, quantos valores digitados foram positivos e quantos valores digitados foram negativos. <br>
+
+| Exemplo de Entrada                          | Exemplo de Saída                                                                                         |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| 7 <br> -5 <br> 6 <br> -3.4 <br> 4.6 <br> 12 | 3 valor(es) par(es) <br> 2 valor(es) impar(es) <br> 1 valor(es) positivo(s) <br> 3 valor(es) negativo(s) |
+
+
+</details>
+
+
 </details>
