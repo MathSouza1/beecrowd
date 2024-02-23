@@ -711,4 +711,17 @@ Leia 2 valores inteiros X e Y. A seguir, calcule e mostre a soma dos números im
 
 </details>
 
+<details>
+<summary> 1072 | Interval II</summary>
+
+## 1072 | Interval II
+Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida.<br>
+Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando essas informações. <br>
+
+| Exemplo de Entrada                  | Exemplo de Saída |
+|-------------------------------------|------------------|
+| 4 <br> 14 <br> 123 <br> 10 <br> -25 | 2 in <br> 2 out  |
+
+</details>
+
 </details>
