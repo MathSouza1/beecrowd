@@ -697,4 +697,18 @@ Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 at�
 
 </details>
 
+<details>
+<summary> 1071 | Sum the Consecutive Odds I</summary>
+
+## 1071 | Sum the Consecutive Odds I
+Leia 2 valores inteiros X e Y. A seguir, calcule e mostre a soma dos números impares entre eles. <br>
+
+| Exemplo de Entrada | Exemplo de Saída |
+|--------------------|------------------|
+| 6 <br> -5          | 5                |
+| 15 <br> 12         | 13               |
+| 12 <br> 12         | 0                |
+
+</details>
+
 </details>
