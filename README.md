@@ -649,4 +649,16 @@ Leia 6 valores. Em seguida, mostre quantos destes valores digitados foram positi
 
 </details>
 
+<details>
+<summary> 1065 | Evens Between Five Numbers</summary>
+
+## 1065 | Evens Between Five Numbers
+Faça um programa que leia 5 valores inteiros. Conte quantos destes valores digitados são pares e mostre esta informação. <br>
+
+| Exemplo de Entrada                          | Exemplo de Saída |
+|---------------------------------------------|------------------|
+| 7 <br> -5 <br> 6 <br> -3.4 <br> 4.6 <br> 12 | 3 valores pares  |
+
+</details>
+
 </details>
