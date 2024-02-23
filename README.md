@@ -671,8 +671,19 @@ Leia 5 valores Inteiros. A seguir mostre quantos valores digitados foram pares, 
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | 7 <br> -5 <br> 6 <br> -3.4 <br> 4.6 <br> 12 | 3 valor(es) par(es) <br> 2 valor(es) impar(es) <br> 1 valor(es) positivo(s) <br> 3 valor(es) negativo(s) |
 
-
 </details>
 
+<details>
+<summary> 1067 | Odd Numbers</summary>
+
+## 1067 | Odd Numbers
+Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso. <br>
+
+| Exemplo de Entrada | Exemplo de Saída       |
+|--------------------|------------------------|
+| 8                  | 1 <br> 3 <br> 5 <br> 7 |
+
+
+</details>
 
 </details>
