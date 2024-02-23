@@ -724,4 +724,16 @@ Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos est
 
 </details>
 
+<details>
+<summary> 1073 | Power of Evens</summary>
+
+## 1073 | Power of Evens
+Leia um valor inteiro N. Apresente o quadrado de cada um dos valores pares, de 1 até N, inclusive N, se for o caso. <br>
+
+| Exemplo de Entrada | Exemplo de Saída                    |
+|--------------------|-------------------------------------|
+| 6                  | 2^2 = 4 <br> 4^2 = 16 <br> 6^2 = 36 |
+
+</details>
+
 </details>
