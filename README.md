@@ -623,4 +623,18 @@ Faça um programa que leia 6 valores. Estes valores serão somente negativos ou 
 
 </details>
 
+<details>
+<summary> 1061 | Event Time</summary>
+
+## 1061 | Event Time
+Pedrinho está organizando um evento em sua Universidade. O evento deverá ser no mês de Abril, iniciando e terminando dentro do mês. O problema é que Pedrinho quer calcular o tempo que o evento vai durar, uma vez que ele sabe quando inicia e quando termina o evento. <br> <br>
+
+Sabendo que o evento pode durar de poucos segundos a vários dias, você deverá ajudar Pedrinho a calcular a duração deste evento.
+
+| Exemplo de Entrada                                     | Exemplo de Saída                                            |
+|--------------------------------------------------------|-------------------------------------------------------------|
+| Dia 5 <br> 08 : 12 : 23 <br> Dia 9 <br> 06 : 13 : 23   | 3 dia(s) <br> 22 hora(s) <br> 1 minuto(s) <br> 0 segundo(s) |
+
+</details>
+
 </details>
