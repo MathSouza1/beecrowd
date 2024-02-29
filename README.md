@@ -882,4 +882,16 @@ Leia um conjunto não determinado de pares de valores M e N (parar quando algum 
 
 </details>
 
+<details>
+<summary> 1113 | Ascending and Descending</summary>
+
+## 1113 | Ascending and Descending
+Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva para cada X e Y uma mensagem que indique se estes valores foram digitados em ordem crescente ou decrescente. <br>
+
+| Exemplo de Entrada             | Exemplo de Saída                            |
+|--------------------------------|---------------------------------------------|
+| 5 4 <br> 7 2 <br> 3 8 <br> 2 2 | Decrescente <br> Decrescente <br> Crescente |
+
+</details>
+
 </details>
