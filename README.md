@@ -785,4 +785,16 @@ Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seg
 
 </details>
 
+<details>
+<summary> 1080 | Bigger and Position</summary>
+
+## 1080 | Bigger and Position
+Leia 100 valores inteiros. Apresente então o maior valor lido e a posição dentre os 100 valores lidos. <br>
+
+| Exemplo de Entrada                            | Exemplo de Saída |
+|-----------------------------------------------|------------------|
+| 2 <br> 113 <br> 45 <br> 34565 <br> ... <br> 8 | 34565 <br> 4     |
+
+</details>
+
 </details>
