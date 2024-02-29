@@ -870,4 +870,16 @@ Leia um valor inteiro N que é a quantidade de casos de teste que vem a seguir. 
 
 </details>
 
+<details>
+<summary> 1101 | Number Sequence and Sum</summary>
+
+## 1101 | Number Sequence and Sum
+Leia um conjunto não determinado de pares de valores M e N (parar quando algum dos valores for menor ou igual a zero). Para cada par lido, mostre a sequência do menor até o maior e a soma dos inteiros consecutivos entre eles (incluindo o N e M). <br>
+
+| Exemplo de Entrada    | Exemplo de Saída                   |
+|-----------------------|------------------------------------|
+| 5 2 <br> 6 3 <br> 5 0 | 2 3 4 5 Sum=14 <br> 3 4 5 6 Sum=18 |
+
+</details>
+
 </details>
