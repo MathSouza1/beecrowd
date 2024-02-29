@@ -749,7 +749,7 @@ Leia um valor inteiro N. Este valor será a quantidade de valores que serão lid
 </details>
 
 <details>
-<summary> 1074 | Even or Odd</summary>
+<summary> 1075 | Rest Equals Two</summary>
 
 ## 1075 | Rest Equals Two
 Leia um valor inteiro N. Apresente todos os números entre 1 e 10000 que divididos por N dão resto igual a 2. <br>
@@ -757,6 +757,19 @@ Leia um valor inteiro N. Apresente todos os números entre 1 e 10000 que dividid
 | Exemplo de Entrada | Exemplo de Saída                   |
 |--------------------|------------------------------------|
 | 13                 | 2 <br> 15 <br> 28 <br> 41 <br> ... |
+
+</details>
+
+<details>
+<summary> 1078 | Multiplication Table</summary>
+
+## 1078 | Multiplication Table
+Leia 1 valor inteiro N (2 < N < 1000). A seguir, mostre a tabuada de N: <br>      
+1 x N = N <br> 2 x N = 2N <br> ... <br> 10 x N = 10N <br>
+
+| Exemplo de Entrada | Exemplo de Saída                               |
+|--------------------|------------------------------------------------|
+| 140                | 1 x 140 = 140 <br> 2 x 140 = 280 <br> 3 x 140 = 420 <br> 4 x 140 = 560 <br> 5 x 140 = 700 <br> 6 x 140 = 840 <br> 7 x 140 = 980 <br> 8 x 140 = 1120 <br> 9 x 140 = 1260 <br> 10 x 140 = 1400 |
 
 </details>
 
