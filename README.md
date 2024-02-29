@@ -736,4 +736,16 @@ Leia um valor inteiro N. Apresente o quadrado de cada um dos valores pares, de 1
 
 </details>
 
+<details>
+<summary> 1074 | Even or Odd</summary>
+
+## 1074 | Even or Odd
+Leia um valor inteiro N. Este valor será a quantidade de valores que serão lidos em seguida. Para cada valor lido, mostre uma mensagem em inglês dizendo se este valor lido é par (EVEN), ímpar (ODD), positivo (POSITIVE) ou negativo (NEGATIVE). No caso do valor ser igual a zero (0), embora a descrição correta seja (EVEN NULL), pois por definição zero é par, seu programa deverá imprimir apenas NULL. <br>
+
+| Exemplo de Entrada              | Exemplo de Saída                                            |
+|---------------------------------|-------------------------------------------------------------|
+| 4 <br> -5 <br> 0 <br> 3 <br> -4 | ODD NEGATIVE <br> NULL <br> ODD POSITIVE <br> EVEN NEGATIVE |
+
+</details>
+
 </details>
