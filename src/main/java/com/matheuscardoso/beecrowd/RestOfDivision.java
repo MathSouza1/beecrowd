@@ -16,7 +16,6 @@ public class RestOfDivision {
             biggest = y;
             smallest = x;
         }
-
         for (int i=smallest+1; i<biggest; i++)
             if (i % 5 == 2 || i % 5 == 3)
                 System.out.println(i);
