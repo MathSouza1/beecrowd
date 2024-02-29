@@ -748,4 +748,16 @@ Leia um valor inteiro N. Este valor será a quantidade de valores que serão lid
 
 </details>
 
+<details>
+<summary> 1074 | Even or Odd</summary>
+
+## 1075 | Rest Equals Two
+Leia um valor inteiro N. Apresente todos os números entre 1 e 10000 que divididos por N dão resto igual a 2. <br>
+
+| Exemplo de Entrada | Exemplo de Saída                   |
+|--------------------|------------------------------------|
+| 13                 | 2 <br> 15 <br> 28 <br> 41 <br> ... |
+
+</details>
+
 </details>
