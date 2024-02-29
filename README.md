@@ -858,4 +858,16 @@ Você deve fazer um programa que apresente a sequencia conforme o exemplo abaixo
 
 </details>
 
+<details>
+<summary> 1099 | Sum of the Consecutive Odds II</summary>
+
+## 1099 | Sum of the Consecutive Odds II
+Leia um valor inteiro N que é a quantidade de casos de teste que vem a seguir. Cada caso de teste consiste de dois inteiros X e Y. Você deve apresentar a soma de todos os ímpares existentes entre X e Y. <br>
+
+| Exemplo de Entrada                                                 | Exemplo de Saída                              |
+|--------------------------------------------------------------------|-----------------------------------------------|
+| 7 <br> 4 5 <br> 13 10 <br> 6 4 <br> 3 3 <br> 3 5 <br> 3 4 <br> 3 8 | 0 <br> 11 <br> 5 <br> 0 <br> 0 <br> 0 <br> 12 |
+
+</details>
+
 </details>
