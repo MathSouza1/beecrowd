@@ -810,4 +810,16 @@ Este laboratório em especial utiliza três tipos de cobaias: sapos, ratos e coe
 
 </details>
 
+<details>
+<summary> 1095 | Sequence IJ I</summary>
+
+## 1095 | Sequence IJ I
+Você deve fazer um programa que apresente a sequencia conforme o exemplo abaixo.<br>
+
+| Exemplo de Entrada | Exemplo de Saída                                           |
+|--------------------|------------------------------------------------------------|
+|                    | I=1 J=60 <br> I=4 J=55 <br> I=7 J=50 <br> ... <br> I=? J=0 |
+
+</details>
+
 </details>
