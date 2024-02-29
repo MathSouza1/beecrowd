@@ -797,4 +797,17 @@ Leia 100 valores inteiros. Apresente então o maior valor lido e a posição den
 
 </details>
 
+<details>
+<summary> 1094 | Experiences</summary>
+
+## 1094 | Experiences
+Maria acabou de iniciar seu curso de graduação na faculdade de medicina e precisa de sua ajuda para organizar os experimentos de um laboratório o qual ela é responsável. Ela quer saber no final do ano, quantas cobaias foram utilizadas no laboratório e o percentual de cada tipo de cobaia utilizada. <br><br>
+Este laboratório em especial utiliza três tipos de cobaias: sapos, ratos e coelhos. Para obter estas informações, ela sabe exatamente o número de experimentos que foram realizados, o tipo de cobaia utilizada e a quantidade de cobaias utilizadas em cada experimento. <br>
+
+| Exemplo de Entrada                                                                               | Exemplo de Saída                                                                                                                                                             |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10 <br> 10 C <br> 6 R <br> 15 S <br> 5 C <br> 14 R <br> 9 C <br> 6 R <br> 8 S <br> 5 C <br> 14 R | Total: 92 cobaias <br> Total de coelhos: 29 <br> Total de sapos: 23 <br> Percentual de coelhos: 31.52 % <br> Percentual de ratos: 43.48 %  <br> Percentual de ratos: 25.00 % |
+
+</details>
+
 </details>
