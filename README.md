@@ -984,4 +984,16 @@ Escreva um algoritmo que leia 2 valores inteiros X e Y calcule a soma dos númer
 
 </details>
 
+<details>
+<summary> 1133 | Rest of Division</summary>
+
+## 1133 | Rest of Division
+Escreva um programa que leia 2 valores X e Y e que imprima todos os valores entre eles cujo resto da divisão dele por 5 for igual a 2 ou igual a 3. <br>
+
+| Exemplo de Entrada | Exemplo de Saída   |
+|--------------------|--------------------|
+| 10 <br> 18         | 12 <br> 13 <br> 17 |
+
+</details>
+
 </details>
