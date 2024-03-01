@@ -996,4 +996,16 @@ Escreva um programa que leia 2 valores X e Y e que imprima todos os valores entr
 
 </details>
 
+<details>
+<summary> 1134 | Type of Fuel</summary>
+
+## 1134 | Type of Fuel
+Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até que seja válido). O programa será encerrado quando o código informado for o número 4. <br>
+
+| Exemplo de Entrada                   | Exemplo de Saída                                              |
+|--------------------------------------|---------------------------------------------------------------|
+| 8 <br> 1 <br> 7 <br> 2 <br> 2 <br> 4 | MUITO OBRIGADO <br> Alcool: 1 <br> Gasolina: 2 <br> Diesel: 0 |
+
+</details>
+
 </details>
