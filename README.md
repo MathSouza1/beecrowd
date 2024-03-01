@@ -972,4 +972,16 @@ A Federação Gaúcha de Futebol contratou você para escrever um programa para 
 
 </details>
 
+<details>
+<summary> 1132 | Multiples of Thirteen</summary>
+
+## 1132 | Multiples of Thirteen
+Escreva um algoritmo que leia 2 valores inteiros X e Y calcule a soma dos números que não são múltiplos de 13 entre X e Y, incluindo ambos.
+
+| Exemplo de Entrada | Exemplo de Saída |
+|--------------------|------------------|
+| 100 <br> 200       | 13954            |
+
+</details>
+
 </details>
