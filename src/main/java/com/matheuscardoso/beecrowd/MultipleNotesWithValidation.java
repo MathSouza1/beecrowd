@@ -27,13 +27,10 @@ public class MultipleNotesWithValidation {
 
             System.out.printf("media = %.2f\n", (firstGrade + secondGrade) / 2);
             String newCalc = "";
-            while (true) {
+            do {
                 System.out.println("novo calculo (1-sim 2-nao)");
                 newCalc = input.nextLine();
-                if (newCalc.equals("1") || newCalc.equals("2")) {
-                    break;
-                }
-            }
+            } while (!newCalc.equals("1") && !newCalc.equals("2"));
 
             if (newCalc.equals("2"))
                 break;
