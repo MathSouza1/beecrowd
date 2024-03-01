@@ -930,4 +930,16 @@ Escreva um algoritmo que leia 2 números e imprima o resultado da divisão do pr
 
 </details>
 
+<details>
+<summary> 1117 | Valid Grade</summary>
+
+## 1117 | Valid Grade
+Faça um programa que leia as notas referentes às duas avaliações de um aluno. Calcule e imprima a média semestral. Faça com que o algoritmo só aceite notas válidas (uma nota válida deve pertencer ao intervalo [0,10]). Cada nota deve ser validada separadamente. <br>
+
+| Exemplo de Entrada                | Exemplo de Saída                                   |
+|-----------------------------------|----------------------------------------------------|
+| -3.5 <br> 3.5 <br> 11.0 <br> 10.0 | nota invalida <br> nota invalida <br> media = 6.75 |
+
+</details>
+
 </details>
