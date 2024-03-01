@@ -918,4 +918,16 @@ Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminad
 
 </details>
 
+<details>
+<summary> 1116 | Dividing X by Y</summary>
+
+## 1116 | Dividing X by Y
+Escreva um algoritmo que leia 2 números e imprima o resultado da divisão do primeiro pelo segundo. Caso não for possível mostre a mensagem “divisao impossivel” para os valores em questão. <br>
+
+| Exemplo de Entrada               | Exemplo de Saída                      |
+|----------------------------------|---------------------------------------|
+| 3 <br> 3 -2 <br> -8 0 <br> 0 -8  | -1.5 <br> divisao impossivel <br> 0.0 |
+
+</details>
+
 </details>
